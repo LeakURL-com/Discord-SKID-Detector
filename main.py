@@ -29,6 +29,7 @@ Data.register(FGrabber)
 Data.register(Wodx)
 Data.register(Wodx2)
 
+
 def main() -> None:
     console = Logging.console
 
