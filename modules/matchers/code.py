@@ -16,3 +16,5 @@ class Code(Matcher):
             regex=self.regex,
             type='suspect code'
         )
+    
+    
