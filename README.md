@@ -1,6 +1,10 @@
 # Discord Malware Detector 🚙
 ### _make discord skidz angry_
 
+
+UPDATED 12/2022 BY YOUR GUYS AT LEAKURL.COM!!!!! SEE US @@ LEAK.TOOLS ALSO MY GUYS AND LEAKS.SHOP! HAVING A GANDER!
+
+
 DMD is a program that reads the content of a given file and looks for common things that are found in token stealers.
 
 ![](./imgs/1.png)
